@@ -1,0 +1,9 @@
+README.md
+setup.py
+fixer.egg-info/PKG-INFO
+fixer.egg-info/SOURCES.txt
+fixer.egg-info/dependency_links.txt
+fixer.egg-info/not-zip-safe
+fixer.egg-info/top_level.txt
+get_data/__init__.py
+get_data/handler.py
