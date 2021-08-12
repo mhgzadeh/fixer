@@ -9,5 +9,6 @@ setup(
     author_email='m.hgzadeh@gmail.com',
     license='MTL',
     packages=['get_data'],
+    install_requires=['requests'],
     zip_safe=False
 )
