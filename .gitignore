@@ -1,2 +1,4 @@
 # My floder and files
-get_data/*
+.idea/*
+
+*.pyc
