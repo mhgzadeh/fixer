@@ -23,8 +23,9 @@ def send_mail(timestamp, date, rates, preferred_currencies,
         f"Thanks for following us.\n" + \
         f"MHGZ\n"
 
-    send_smpt_email(email_subject, email_text, sender_email,
-                    reciever_email, sender_email_password)
+    send_smpt_email(email_subject, email_text, 
+                    sender_email, sender_email_password, 
+                    reciever_email)
 
 
 def send_smpt_email(email_subject, email_text, 
