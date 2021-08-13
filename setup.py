@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='fixer',
-    version='1.0.9',
+    version='1.1.0',
     description='fixer service packages: providing important worlds currencies.',
     url='https://github.com/mhgzadeh/fixer',
     author='Mohammad',
