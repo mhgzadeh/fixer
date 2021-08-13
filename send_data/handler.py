@@ -1,4 +1,4 @@
-from send_data.decorators.timer import time_logger
+from send_data.decorators import time_logger
 from datetime import datetime
 from email.mime.text import MIMEText
 import smtplib
